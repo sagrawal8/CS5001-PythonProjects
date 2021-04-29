@@ -1,0 +1,41 @@
+Written #1
+
+1A:
+print_formatted("Hello world")
+
+1B:
+int y = get_max(2, 3)
+
+1C:
+float x = log_base_two(3)
+
+Written #2
+
+It'll never execute as the function boundary is passed after the return statement 
+and the line 'x = x + 5' is not defined within any function
+
+Written #3
+
+3A:
+19
+18
+
+3B:
+19
+18
+19
+
+Written #4
+
+The print statement can be put in the main() function making 
+the function 'diff_squared' more universal. I would therefore choose function #1.
+
+Written #5
+
+5A:
+def divide(x: int, y: float) -> int:
+
+5B:
+They would help someone with no knowledge of your code easily associate variables/parameters to variable types
+leading to a better understanding of your code.
+ 

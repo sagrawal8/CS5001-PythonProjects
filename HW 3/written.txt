@@ -1,0 +1,19 @@
+Written #1
+
+1A:
+Danger, Will Robinson!
+Danger, Will Robinson!
+Danger, Will Robinson!
+
+1B:
+Lost in Space!
+
+1C:
+infinte loop
+
+2A: 
+Option #1
+
+2B:
+It thinks good inputs like Sat are invalid
+

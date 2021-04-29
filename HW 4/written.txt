@@ -1,0 +1,23 @@
+Name: Shashank Agrawal
+Class: CS 5001
+Assignment: Written
+
+Written #1:
+
+1A: Type Error
+2A: Index Error
+3A: Typer Error
+
+Written #2
+
+2A:
+[3, 4, 5]
+[8, 9, 10]
+
+2B:
+3
+4
+5
+8
+9
+10
